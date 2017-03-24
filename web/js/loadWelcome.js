@@ -30,5 +30,5 @@ function getWelcome() {
      }
 
 var phrases = { /* translation table for page */
-    en: ["<h1>Welcome!</h1><p> This Is Leon Hazard Majestic Websites!</p><p><a href='about.html' class='btn btn-primary btn-large'>Learn more &raquo;</a></p>"]
+    en: ["<h1>Welcome!</h1><p> This Is Leon Hazard Majestic Websites!</p><p><a href='about' class='btn btn-primary btn-large'>Learn more &raquo;</a></p>"]
 };
