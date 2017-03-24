@@ -32,7 +32,7 @@ Donations
 ---------
 A small donation to show appreciation is always welcome.
 //Will Be Added
-[![PayPal donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7FZ9L5WVFCPUJ)
+[![PayPal donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7FZ9L5WVFCPUJ)]
 
 
 Contributors
