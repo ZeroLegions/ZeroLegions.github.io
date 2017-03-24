@@ -25,7 +25,7 @@
         function Login(form) {
             username = new Array("LMOA", "LeonHazardMajestic");
             password = new Array("LMOA", "password");
-            page = "redirect" + ".html";
+            page = "redirect";
             if (form.username.value == username[0] && form.password.value == password[0] || form.username.value == username[1] && form.password.value == password[1] || form.username.value == username[2] && form.password.value == password[2] || form.username.value == username[3] && form.password.value == password[3] || form.username.value == username[4] && form.password.value == password[4] || form.username.value == username[5] && form.password.value == password[5] || form.username.value == username[6] && form.password.value == password[6] || form.username.value == username[7] && form.password.value == password[7] || form.username.value == username[8] && form.password.value == password[8] || form.username.value == username[9] && form.password.value == password[9]) {
                  self.location.href = page; 
             }  else {
@@ -45,7 +45,7 @@ return true;
       <input type="text" name="username" placeholder="Username"/>
       <input type="password" name="password" placeholder="Password"/>
       <input type="button" value="Login" onClick="Login(this.form);" style="background:#742ECC;color:#fff;border-color:#212121;padding:10px;font-size:20px;width:330px;margin:20px auto;display:block;cursor:pointer;" onMouseOver="this.style.color = '#404040';" onMouseOut="this.style.color = '#000000';" onFocusr="this.style.color = '#404040';" onBlur="this.style.color = '#000000';">
-      <h2>| <a href="https://github.com/ZeroLegions/ZeroLegions.github.io/">Get Username & Password</a> | <a href="auth-2.html">Admins Access</a> | <h2>
+      <h2>| <a href="https://github.com/ZeroLegions/ZeroLegions.github.io/">Get Username & Password</a> | <a href="auth-2">Admins Access</a> | <h2>
     </div>
   </div>
 </div>
