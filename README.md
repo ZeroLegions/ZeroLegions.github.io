@@ -13,11 +13,11 @@ More information can be found in the [wiki](https://github.com/ZeroLegions/ZeroL
 
 Authentication
 -------
-The Website Will Require An Authentication Username And Password.
-Here Some Available Username And Password:
-Username: LMOA
-Password: LMOA
-This Is An Open Source Websites.
+- The Website Will Require An Authentication Username And Password.
+- Here Some Available Username And Password:
+- Username: LMOA
+- Password: LMOA
+- This Is An Open Source Websites.
 
 
 Authors
@@ -32,7 +32,7 @@ Donations
 ---------
 A small donation to show appreciation is always welcome.
 //Will Be Added
-[![PayPal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)]()
+[![PayPal donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7FZ9L5WVFCPUJ)
 
 
 Contributors
