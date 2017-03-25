@@ -1,6 +1,6 @@
 ZeroLegions.github.io
+[![PayPal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7FZ9L5WVFCPUJ)
 =====
-
 [!["LHM Websites"](https://raw.githubusercontent.com/ZeroLegions/ZeroLegions.github.io/master/icon/ms-icon-150x150.png)](http://github.com/ZeroLegions/ZeroLegions.github.io)
 
 
@@ -13,11 +13,11 @@ More information can be found in the [wiki](https://github.com/ZeroLegions/ZeroL
 
 Authentication
 -------
-The Website Will Require An Authentication Username And Password.
-Here Some Available Username And Password:
-Username: LMOA
-Password: LMOA
-This Is An Open Source Websites.
+- The Website Will Require An Authentication Username And Password.
+- Here Some Available Username And Password:
+- Username: LMOA
+- Password: LMOA
+- This Is An Open Source Websites.
 
 
 Authors
@@ -31,15 +31,14 @@ Authors
 Donations
 ---------
 A small donation to show appreciation is always welcome.
-//Will Be Added
-[![PayPal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)]()
+[![PayPal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7FZ9L5WVFCPUJ)
 
 
 Contributors
 ------------
-LeonHazard
-NeuroBindsProject
-HyGlobalHD
+- [LeonHazard](https://github.com/LeonHazard/)
+- [NeuroBinds](https://github.com/Neurobinds/)
+- [HyGlobalHD](https://github.com/HyGlobalHD/)
 
 
 Contact
@@ -51,5 +50,4 @@ at Github. You can also send me an email, Direct Message me on Instagrams.
 
 License
 -------
-Licensed under the [GPL license][GPL].
-[GPL]: http://www.gnu.org/licenses/gpl.html
+Licensed under the [GPL license](http://www.gnu.org/licenses/gpl.html).
