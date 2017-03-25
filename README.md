@@ -36,9 +36,9 @@ A small donation to show appreciation is always welcome.
 
 Contributors
 ------------
-LeonHazard
-NeuroBindsProject
-HyGlobalHD
+- [LeonHazard](https://github.com/LeonHazard/)
+- [NeuroBinds](https://github.com/Neurobinds/)
+- [HyGlobalHD]()https://github.com/HyGlobalHD/
 
 
 Contact
@@ -50,5 +50,5 @@ at Github. You can also send me an email, Direct Message me on Instagrams.
 
 License
 -------
-Licensed under the [GPL license][GPL].
+Licensed under the [GPL license][GPL]
 [GPL]: http://www.gnu.org/licenses/gpl.html
