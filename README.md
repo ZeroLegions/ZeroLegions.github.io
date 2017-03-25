@@ -1,3 +1,4 @@
+[![PayPal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7FZ9L5WVFCPUJ)
 ZeroLegions.github.io
 =====
 
@@ -38,7 +39,7 @@ Contributors
 ------------
 - [LeonHazard](https://github.com/LeonHazard/)
 - [NeuroBinds](https://github.com/Neurobinds/)
-- [HyGlobalHD]()https://github.com/HyGlobalHD/
+- [HyGlobalHD](https://github.com/HyGlobalHD/)
 
 
 Contact
@@ -50,5 +51,4 @@ at Github. You can also send me an email, Direct Message me on Instagrams.
 
 License
 -------
-Licensed under the [GPL license][GPL]
-[GPL]: http://www.gnu.org/licenses/gpl.html
+Licensed under the [GPL license](http://www.gnu.org/licenses/gpl.html).
